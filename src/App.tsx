@@ -15,7 +15,7 @@ import Dashboard from "./pages/admin/Dashboard";
 // import LoginPage from "./pages/LoginPage";
 // import Navbar from "./components/Navbar";
 import AdminLoginPage from "./pages/admin/LoginPage";
-import Header from "./components/admin/Header";
+// import Header from "./components/admin/Header";
 import Footer from "./components/Footer";
 import Archives from "./pages/Archives";
 import OurStory from "./pages/OurStory";

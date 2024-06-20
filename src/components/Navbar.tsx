@@ -22,9 +22,9 @@ const Header = () => {
     setIsLoginModalOpen((prevState) => !prevState); // Toggles the modal state
   };
 
-  const handleCloseLoginModal = () => {
-    setIsLoginModalOpen(false);
-  };
+  // const handleCloseLoginModal = () => {
+  //   setIsLoginModalOpen(false);
+  // };
 
   // const handleSignOut = () => {
   //   window.google.accounts.id.disableAutoSelect();

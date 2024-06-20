@@ -2,7 +2,7 @@ import { useState } from "react";
 import { useEffect } from "react";
 import { useLocation } from "react-router-dom";
 import { NavLink } from "react-router-dom";
-import LogIn from "./Login";
+// import LogIn from "./Login";
 import { FaUserCircle } from "react-icons/fa";
 import logo from "../assets/logo.png";
 

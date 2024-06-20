@@ -1,7 +1,7 @@
 // import React from "react";
-import { useAuth } from "../context/AuthContext";
-import Navbar from "../components/Navbar";
-import React from "react";
+// import { useAuth } from "../context/AuthContext";
+// import Navbar from "../components/Navbar";
+// import React from "react";
 import heroImage from "../assets/heroimage.jpg";
 import AuthNavbar from "../components/AuthNavbar";
 
